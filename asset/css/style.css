@@ -1,0 +1,13 @@
+*{
+    border: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.banner{
+    background-image: url(../img/img_07_0f2700aa-1b9c-4325-8fe6-f6b69c7e2d51_1512x.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 250px;
+}
